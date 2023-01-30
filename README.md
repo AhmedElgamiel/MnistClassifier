@@ -35,9 +35,11 @@ Hyperparameters I tuned :
 
 ## The chosen model
 The 2nd and the 3rd models roughly have the same results , but I decided to use the 3rd as it has better reciptive field.
-The left fig is model 2 and the right is model 3
+model_2
 ![model_2](https://github.com/AhmedElgamiel/MnistClassifier/blob/main/hist2.png)
 
+
+model_3
 ![model_3](https://github.com/AhmedElgamiel/MnistClassifier/blob/main/hist3.png)
 
 ## Reciptive field of the model
