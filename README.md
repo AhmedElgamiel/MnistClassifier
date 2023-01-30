@@ -35,7 +35,11 @@ Hyperparameters I tuned :
 
 ## The chosen model
 The 2nd and the 3rd models roughly have the same results , but I decided to use the 3rd as it has better reciptive field.
-a
+model_2
+![model_2](http://url/to/img.png](https://github.com/AhmedElgamiel/MnistClassifier/blob/main/hist2.png))
+model_3
+![model_3](https://github.com/AhmedElgamiel/MnistClassifier/blob/main/hist3.png))
+
 ## Reciptive field of the model
 They reciptive field of the choosen model is :
 layer output sizes given image = 28x28
